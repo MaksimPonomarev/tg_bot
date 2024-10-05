@@ -1,6 +1,6 @@
 import telebot
 
-TOKEN = "6924875174:AAFeI-u0x7mHIGGGqK9pj7G1V4OADFLscic"
+TOKEN = ""
 bot = telebot.TeleBot(TOKEN)
 VK = "https://vk.com/i_am_maks"
 GIT = "https://github.com/MaksimPonomarev"
